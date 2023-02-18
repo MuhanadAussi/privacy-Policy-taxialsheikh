@@ -16,6 +16,8 @@ At the same time, we welcome all your comments on the terms below.
 * Customer Obligations:
 
 The user acknowledges and undertakes to use the services of the Hi Captain application in accordance with the terms and laws applicable to us.
+- In the event that the driver exits the application while he is in a required state, his location is taken in the background.
+- Get needs access to your current location when you open it to show you our services nearby and save your location in our database. This feature is used only during the order to ensure that the driver is tracked by the customer in the background.
 - Driver must be at least 18 years old to drive taxi, pick-up, cargo, transport and tow trucks.
 - The driver must be at least 16 years old to drive a motorcycle and a tuk-tuk.
 - Record all personal information accurately and truthfully.
